@@ -36,3 +36,4 @@ hs_err_pid*
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
